@@ -112,8 +112,8 @@ button {
 }
 @media only screen and (max-width: 360px) {
     .list-container {
-        min-height: 85vh;
+        min-height: 80vh;
         padding:15px;
-        padding-top:10%;
+        padding-top:12%;
     }
 }
